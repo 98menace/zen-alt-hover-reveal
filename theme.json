@@ -1,0 +1,17 @@
+{
+  "id": "alt-hover-reveal",
+  "name": "Alt Hover Reveal",
+  "description": "Compact mode: the sidebar and toolbar only reveal on hover while Left Alt is held.",
+  "version": "1.0.0",
+  "scripts": {
+    "alt-hover-reveal.uc.js": {
+      "include": [
+        "chrome://browser/content/browser.xhtml"
+      ]
+    }
+  },
+  "fork": [
+    "zen"
+  ],
+  "updatedAt": "2026-11-16T08:20:00Z"
+}
